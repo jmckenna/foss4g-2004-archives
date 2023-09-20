@@ -1,0 +1,135 @@
+H1 {
+	COLOR: #840000
+}
+H2 {
+	COLOR: #840000
+}
+H3 {
+	COLOR: #840000
+}
+H4 {
+	COLOR: #840000
+}
+A {
+	TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #0000ff
+}
+A:active {
+	COLOR: #056dc5
+}
+A:visited {
+	COLOR: #0000ff
+}
+A:hover {
+	COLOR: #ff0000
+}
+HTML {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif
+}
+BODY {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif
+}
+TD {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif
+}
+P {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif
+}
+.instructions {
+	COLOR: #840000
+}
+INPUT {
+	FONT-SIZE: 8pt; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif
+}
+TEXTAREA {
+	FONT-SIZE: 8pt; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif
+}
+SELECT {
+	FONT-SIZE: 8pt; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif
+}
+INPUT.button {
+	FONT-WEIGHT: bold; BACKGROUND: #8c9744; COLOR: #ccffff
+}
+.MenuSection {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.SmallText {
+	FONT-SIZE: 8pt; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif
+}
+.MenuSubsection {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #606699; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+A.MenuLink {
+	FONT-SIZE: 8pt; COLOR: #0000ff; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.Blank {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.Citation {
+	FONT-SIZE: 8pt; COLOR: #7777aa; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.MainText {
+	FONT-SIZE: 10pt; LINE-HEIGHT: 120%; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.MetaText {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 120%; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.ArticleAbstract {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 125%; FONT-STYLE: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.ArticleTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #840000; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.ArticleHeader {
+	FONT-SIZE: 14pt; COLOR: #000000; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.ConferenceTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 24pt; COLOR: #336699; LINE-HEIGHT: normal; FONT-FAMILY: Garamond, "Galliard BT", "ChelthmlTC Bk BT", Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+A.MainTextLink {
+	FONT-SIZE: 10pt; COLOR: #0000ff; LINE-HEIGHT: 120%; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.WhiteText {
+	FONT-SIZE: 10pt; COLOR: #ffffff; LINE-HEIGHT: 120%; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+A.AuthorTextLink {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #840000; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.SecondaryText {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #840000; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.AffiliationLink {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #840000; LINE-HEIGHT: normal; FONT-STYLE: italic; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+A.Content {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #669966; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.ContentHdr {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #336699; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+A.TopMenu {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ccffff; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+A.TopMenu:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ccffff; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.Divider {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.TopMenu {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+A.Sponsor {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000066; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+A.NavTree {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+.NavTree {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
+A.NavTree:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-FAMILY: Verdana,Arial,Geneva,Helvetica,sans-serif; TEXT-DECORATION: none
+}
